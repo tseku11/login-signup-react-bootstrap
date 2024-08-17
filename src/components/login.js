@@ -9,8 +9,13 @@ export default class Login extends Component {
                 <div className="mb-3">
                     <label>Email address</label>
                     <input
-                        type="email"
+                        type="emaaweg"
                         className="form-control"
+                        nawieg
+                        awegnjaweg
+                        awegnjawoeg
+                        raegjnaweg
+                        awegjn
                         placeholder="Enter email"
                     />
                 </div>
